@@ -1,0 +1,14 @@
+layout_spectrum: 0.517871098825708
+typography_spectrum: 0.30653701769188046
+color:
+  brandStrength: 0.9471326768398285
+  lightness: 0.8074991598259658
+  saturation: 0.39753216528333724
+  rhythmicContrast: 0.5433326761703938
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: amb-it-ion
