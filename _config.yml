@@ -16,5 +16,9 @@ author:
   email: john@amb-it-ion.com
   url: www.amb-it-ion.com
 name: amb-it-ion
+navigation:
+  - name: 'Best of CH 2015: Instagram'
+    id: 1f477a88-5287-4525-b992-c0772a81b196
+    type: content
 title: amb-it-ion
 description: fullstack programmer/architect/requirements analyst
