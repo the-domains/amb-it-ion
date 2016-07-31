@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-07-17T18:26:12.381Z'
+datePublished: '2016-07-31T09:48:28.446Z'
 sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
-hasPage: false
+hasPage: true
 keywords:
   - art
   - artist
@@ -17,7 +16,7 @@ keywords:
   - biennale
 related: []
 author: []
-dateModified: '2016-07-17T18:26:11.929Z'
+dateModified: '2016-07-31T09:48:28.113Z'
 title: 'Best of CH 2015: Instagram'
 app_links: []
 publisher:
@@ -31,7 +30,9 @@ description: >-
   taken, and that's something we're quite proud of.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: best-of-ch-2015-instagram/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
